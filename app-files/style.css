@@ -79,7 +79,7 @@ body.multiple-scenes.mobile #titleBar {
   height: 100%;
   line-height: 30px;
   padding: 5px;
-  background-color: rgb(58,68,84);
+  background-color: rgb(125,125,125);
   background-color: rgba(58,68,84,0.8);
   overflow: hidden;
   text-overflow: ellipsis;
@@ -376,7 +376,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
   border-radius: 5px;
 
-  background-color: rgb(58,68,84);
+  background-color: rgb(0,255,150);
   background-color: rgba(58,68,84,0.8);
 
   color: #fff;
@@ -757,7 +757,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   left: 10px;
   right: 10px;
   padding: 10px;
-  background-color: rgb(58,68,84);
+  background-color: rgb(255,56,73);
   background-color: rgba(58,68,84,0.8);
   overflow-y: auto;
   opacity: 0;
